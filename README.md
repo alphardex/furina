@@ -2,7 +2,7 @@
   <img src="./assets/logo.jpg" width="200">
 </p>
 <p>
-  <img alt="Version" src="https://img.shields.io/npm/v/furina.svg" />
+  <img alt="Version" src="https://img.shields.io/npm/v/furina.svg?v=1" />
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
