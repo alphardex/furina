@@ -1,0 +1,8 @@
+{
+  "name": "furina",
+  "version": "1.0.0",
+  "description": "A Shader util functions library.",
+  "main": "index.js",
+  "author": "alphardex",
+  "license": "MIT"
+}
