@@ -1,6 +1,8 @@
-<p align="center">
+<div align="center">
   <img src="./assets/logo.jpg" width="200">
-</p>
+  <h1>furina</h1>
+  <p>A Shader util functions library.</p>
+</div>
 <p>
   <img alt="Version" src="https://img.shields.io/npm/v/furina.svg?v=1" />
   <a href="#" target="_blank">
@@ -11,9 +13,7 @@
   </a>
 </p>
 
-# furina
-
-> A Shader util functions library.
+> Furina, the God of Justice "Focalors" in Fontaine.
 
 ## Install
 
