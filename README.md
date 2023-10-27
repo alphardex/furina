@@ -5,7 +5,7 @@
 </div>
 <p>
   <img alt="Version" src="https://img.shields.io/npm/v/furina.svg?v=1" />
-  <a href="#" target="_blank">
+  <a href="https://github.com/alphardex/furina/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
   <a href="https://twitter.com/alphardex007" target="_blank">
